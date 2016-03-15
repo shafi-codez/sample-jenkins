@@ -1,5 +1,6 @@
-odjkdjkjfkdjkldskflklsdk
-uljsldjsal## Requirements
+
+[![Build Status](https://jenkins.bleacherreport.com/buildStatus/icon?job=sample-jenkins-origin-branch1)](https://jenkins.bleacherreport.com/job/sample-jenkins-origin-branch1/)
+
 
 * [Java 7](http://java.com)
 * [Maven](http://maven.apache.org) 2+
